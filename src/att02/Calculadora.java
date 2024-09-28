@@ -1,4 +1,4 @@
-package att02Calculo;
+package att02;
 
 public class Calculadora {
     public int dobrar(int numero) {

@@ -1,4 +1,4 @@
-package att02Calculo;
+package att02;
 
 import java.util.Scanner;
 

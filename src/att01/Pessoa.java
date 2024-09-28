@@ -1,4 +1,4 @@
-package att01Pessoa;
+package att01;
 
 public class Pessoa {
 
